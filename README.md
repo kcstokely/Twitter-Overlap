@@ -13,3 +13,7 @@
       *) Write the double-followers to overlap.dat
 
   It is not robust against errors, etc.
+  
+  It needs TwitCurl.
+  
+  
